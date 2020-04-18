@@ -3,3 +3,4 @@ This repository contains the possible solutions to the Credit Card Fraud problem
 
 The dataset and benchmarks can be found here:https://www.kaggle.com/mlg-ulb/creditcardfraud/
 This notebook is a primer on credit risk analysis and can be used as per MIT license
+Kaggle version of the solution: https://www.kaggle.com/abhilash1910/credit-card-fraud?scriptVersionId=32223529
